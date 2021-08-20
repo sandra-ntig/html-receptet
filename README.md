@@ -8,7 +8,7 @@
 <html lang="sv">
     <head>
     <meta charset="utf-8">
-    <title>Sidan titel/title>
+    <title>Sidan titel</title>
     </head>
 <body>
     <!-- Här lägger jag mitt innehåll--> 
