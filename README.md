@@ -14,7 +14,7 @@
     <!-- Här lägger jag mitt innehåll--> 
 </body>
 ```
-3. Lägg in all text från filen receptet.txt innanför body-taggen och strukturera html-dokumentet genom att märka 
+3. Lägg in all text från filen recipe.txt innanför body-taggen och strukturera html-dokumentet genom att märka 
 upp varje del med lämplig html-tagg.
 
 Rekommenderade taggar för detta dokument: 
