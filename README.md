@@ -8,7 +8,7 @@
 <html lang="sv">
     <head>
     <meta charset="utf-8">
-    <title>Sidan titel</title>
+    <title>Sidans titel</title>
     </head>
 <body>
     <!-- Här lägger jag mitt innehåll--> 
@@ -21,8 +21,8 @@ Rekommenderade taggar för detta dokument:
 ```html
 <h1> - <h4>            Rubriker och underrubriker
 <p>                    Textstycke
-<strong>`              Stark betonad text (fetstil)
-<em>`                  Viktig text (kursiv) 
+<strong>              Stark betonad text (fetstil)
+<em>                  Viktig text (kursiv) 
 <a href="#">Länk</a>   Länk där adressen skrivs i #
 <img src="bild.jpg>    Bild
 <ul>
