@@ -24,7 +24,7 @@ Rekommenderade taggar för detta dokument:
 <strong>              Stark betonad text (fetstil)
 <em>                  Viktig text (kursiv) 
 <a href="#">Länk</a>   Länk där adressen skrivs i #
-<img src="bild.jpg>    Bild
+<img src="bild.jpg">    Bild
 <ul>
      <li></li>
      <li></li>
